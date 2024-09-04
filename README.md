@@ -1,7 +1,4 @@
-### Hi there 
-
-
-- 🔭 I’m currently working on my degree at Abant Izzet Baysal University in Turkey.
-- 📫 You can reach me on Linkedin or e-mail: agcaabdurrahim@outlook.com
-- 
-
+==> I'm currently pursuing my degree at Abant Izzet Baysal University in Turkey.
+==> I am interested in web backend development and mobile applications. 
+==> I love Linux and enjoy listening to rap music. 
+==> You can reach me via email at: agcaabdurrahim@outlook.com.
