@@ -6,4 +6,4 @@
 
 ==> I love Linux and rap.  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdurrahimagca&theme=high-contrast)](https://github.com/abdurrahimagca/github-readme-activity-graph)
+![Abdurrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurrahimagca&show_icons=true&theme=transparent)
