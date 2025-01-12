@@ -3,8 +3,7 @@
 
 # HelLo. You've found a harmless spot of the internet!
 
-![nice8](https://github.com/user-attachments/assets/53f704a0-553d-4470-96df-553595af32b5) ![travis-scott-apology-kurrco](https://github.com/user-attachments/assets/094bd7a7-6e99-47a4-862d-742c1c762802)
-
+![nice8](https://github.com/user-attachments/assets/53f704a0-553d-4470-96df-553595af32b5) 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahimagca&layout=donut)](https://github.com/abdurrahimagca/github-readme-stats)
